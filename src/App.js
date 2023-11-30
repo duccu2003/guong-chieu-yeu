@@ -138,8 +138,8 @@ function App() {
             <
             >
             <
-            h1 className = "text-4xl font-extrabold leading-none tracking-tight text-gray-900  dark:text-white uppercase mb-2" > Kính Chiếu Yêu < /h1>  < / >
-            :
+            h1 className = "text-4xl font-extrabold leading-none tracking-tight text-gray-900 dark:text-white uppercase mb-2 custom-heading" > Kính Chiếu Yêu < /h1> <
+            / > :
                 <
                 div className = 'flex flex-col gap-y-2 mb-2' >
                 <
