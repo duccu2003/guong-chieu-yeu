@@ -128,8 +128,11 @@ function App() {
             p class = "w-1/3 text-center text-white" > Đừng lóng,
             chờ 1 xíu là tải xong... < /p> < /
             div >
-        } <
-        div className = "App w-[100vw] h-[100vh] bg-gray-50 dark:bg-gray-800 pt-2" >
+        } < div className = "App w-[100vw] h-[100vh] pt-2"
+        style = {
+            { backgroundColor: '#000' }
+        } >
+
         <
         div className = 'container mx-auto text-center pt-2 px-1' >
 
@@ -138,8 +141,8 @@ function App() {
             <
             >
             <
-            h1 className = "text-4xl font-extrabold leading-none tracking-tight text-gray-900 dark:text-white uppercase mb-2 custom-heading" > Kính Chiếu Yêu < /h1> <
-            / > :
+            h1 className = "text-4xl font-extrabold leading-none tracking-tight text-gray-900 dark:text-white uppercase mb-2 custom-heading" > Gương Chiếu Yêu < /h1> < / >
+            :
                 <
                 div className = 'flex flex-col gap-y-2 mb-2' >
                 <
