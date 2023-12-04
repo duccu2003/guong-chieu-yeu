@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/guong-chieu-yeu/static/css/main.771dc7a8.css",
-    "main.js": "/guong-chieu-yeu/static/js/main.fa693bfa.js",
+    "main.css": "/guong-chieu-yeu/static/css/main.db3e19c9.css",
+    "main.js": "/guong-chieu-yeu/static/js/main.fe2f18bb.js",
     "static/js/787.9864eaf1.chunk.js": "/guong-chieu-yeu/static/js/787.9864eaf1.chunk.js",
     "static/media/victoria.ttf": "/guong-chieu-yeu/static/media/victoria.184e06d96abcedc1bb2c.ttf",
     "index.html": "/guong-chieu-yeu/index.html",
-    "main.771dc7a8.css.map": "/guong-chieu-yeu/static/css/main.771dc7a8.css.map",
-    "main.fa693bfa.js.map": "/guong-chieu-yeu/static/js/main.fa693bfa.js.map",
+    "main.db3e19c9.css.map": "/guong-chieu-yeu/static/css/main.db3e19c9.css.map",
+    "main.fe2f18bb.js.map": "/guong-chieu-yeu/static/js/main.fe2f18bb.js.map",
     "787.9864eaf1.chunk.js.map": "/guong-chieu-yeu/static/js/787.9864eaf1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.771dc7a8.css",
-    "static/js/main.fa693bfa.js"
+    "static/css/main.db3e19c9.css",
+    "static/js/main.fe2f18bb.js"
   ]
 }
